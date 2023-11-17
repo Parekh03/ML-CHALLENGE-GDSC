@@ -37,6 +37,7 @@ After going through the above mentioned steps, following results were observed:<
 **Precision - 93%** <br>
 **Recall - 100%** <br>
 **F1 score - 97%** <br>
+**Note** - These results are approximate. The values might change a bit with every run of the notebook.
 
 ## Guide to run the code
 Download the dataset from [here](https://www.kaggle.com/datasets/alopez247/pokemon). Then replace the path in 'pd.read_csv("___")' with the actual path of your downloaded dataset. After that, you are good to go!. You can run all the cells.
